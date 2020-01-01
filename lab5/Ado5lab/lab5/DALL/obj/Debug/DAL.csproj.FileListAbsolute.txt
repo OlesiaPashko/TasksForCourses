@@ -1,0 +1,12 @@
+C:\Users\olesy\source\repos\EPAM\lab5\DALL\bin\Debug\DALL.dll
+C:\Users\olesy\source\repos\EPAM\lab5\DALL\bin\Debug\DALL.pdb
+C:\Users\olesy\source\repos\EPAM\lab5\DALL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\olesy\source\repos\EPAM\lab5\DALL\obj\Debug\DALL.dll
+C:\Users\olesy\source\repos\EPAM\lab5\DALL\obj\Debug\DALL.pdb
+C:\Users\olesy\source\repos\EPAM\lab5\DALL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\olesy\source\repos\EPAM\lab5\Ado5lab\lab5\DALL\bin\Debug\DALL.dll
+C:\Users\olesy\source\repos\EPAM\lab5\Ado5lab\lab5\DALL\bin\Debug\DALL.pdb
+C:\Users\olesy\source\repos\EPAM\lab5\Ado5lab\lab5\DALL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\olesy\source\repos\EPAM\lab5\Ado5lab\lab5\DALL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\olesy\source\repos\EPAM\lab5\Ado5lab\lab5\DALL\obj\Debug\DALL.dll
+C:\Users\olesy\source\repos\EPAM\lab5\Ado5lab\lab5\DALL\obj\Debug\DALL.pdb

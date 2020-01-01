@@ -1,0 +1,11 @@
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csprojAssemblyReference.cache
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.AssemblyInfo.cs
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.deps.json
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.json
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.runtimeconfig.dev.json
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.dll
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\bin\Debug\netcoreapp2.1\BinaryTree.pdb
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.dll
+C:\Users\olesy\source\repos\EPAM\BinaryTree\BinaryTree\obj\Debug\netcoreapp2.1\BinaryTree.pdb

@@ -1,0 +1,11 @@
+C:\Users\olesy\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.1\Polynomial.deps.json
+C:\Users\olesy\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.1\Polynomial.runtimeconfig.json
+C:\Users\olesy\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.1\Polynomial.runtimeconfig.dev.json
+C:\Users\olesy\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.1\Polynomial.dll
+C:\Users\olesy\source\repos\Polynomial\Polynomial\bin\Debug\netcoreapp2.1\Polynomial.pdb
+C:\Users\olesy\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.1\Polynomial.csprojAssemblyReference.cache
+C:\Users\olesy\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.1\Polynomial.csproj.CoreCompileInputs.cache
+C:\Users\olesy\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.1\Polynomial.AssemblyInfoInputs.cache
+C:\Users\olesy\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.1\Polynomial.AssemblyInfo.cs
+C:\Users\olesy\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.1\Polynomial.dll
+C:\Users\olesy\source\repos\Polynomial\Polynomial\obj\Debug\netcoreapp2.1\Polynomial.pdb

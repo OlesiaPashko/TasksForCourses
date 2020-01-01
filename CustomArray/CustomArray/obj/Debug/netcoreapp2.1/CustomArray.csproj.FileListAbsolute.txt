@@ -1,0 +1,11 @@
+C:\Users\olesy\source\repos\CustomArray\CustomArray\bin\Debug\netcoreapp2.1\CustomArray.deps.json
+C:\Users\olesy\source\repos\CustomArray\CustomArray\bin\Debug\netcoreapp2.1\CustomArray.runtimeconfig.json
+C:\Users\olesy\source\repos\CustomArray\CustomArray\bin\Debug\netcoreapp2.1\CustomArray.runtimeconfig.dev.json
+C:\Users\olesy\source\repos\CustomArray\CustomArray\bin\Debug\netcoreapp2.1\CustomArray.dll
+C:\Users\olesy\source\repos\CustomArray\CustomArray\bin\Debug\netcoreapp2.1\CustomArray.pdb
+C:\Users\olesy\source\repos\CustomArray\CustomArray\obj\Debug\netcoreapp2.1\CustomArray.csprojAssemblyReference.cache
+C:\Users\olesy\source\repos\CustomArray\CustomArray\obj\Debug\netcoreapp2.1\CustomArray.csproj.CoreCompileInputs.cache
+C:\Users\olesy\source\repos\CustomArray\CustomArray\obj\Debug\netcoreapp2.1\CustomArray.AssemblyInfoInputs.cache
+C:\Users\olesy\source\repos\CustomArray\CustomArray\obj\Debug\netcoreapp2.1\CustomArray.AssemblyInfo.cs
+C:\Users\olesy\source\repos\CustomArray\CustomArray\obj\Debug\netcoreapp2.1\CustomArray.dll
+C:\Users\olesy\source\repos\CustomArray\CustomArray\obj\Debug\netcoreapp2.1\CustomArray.pdb
